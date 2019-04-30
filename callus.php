@@ -33,8 +33,8 @@ body {
 
 .logo{
      background-image: url("img/logo.png");
-width:120px;
-height:120px;}
+width:50px;
+height:50px;}
 
 .topnav {
   overflow: hidden;
@@ -64,10 +64,10 @@ height:120px;}
 </style>
    <body>
         <div class="headerhome">
-		<h2 class="logo"> </h2>
+		<h2> اتصل بنا </h2>
 	</div>
      
-    <form method="post" action="homepage.php" class="background"  >
+    <form method="post" action="about.php"   >
 <div class="topnav">
   <a class="active" href="homepage.php">الرئيسية</a>
   <a href="index1.php">كرة القدم</a>
@@ -77,8 +77,8 @@ height:120px;}
 </div>
 
 <div style="padding-left:10px">
-  <h2>
-  
+  <h2 style="font-size: x-large">
+ البريد الاكتروني :ramyrayd1990"gmail.com 
 
   </h2 >
   <p></p>
